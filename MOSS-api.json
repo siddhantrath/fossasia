@@ -1,6 +1,6 @@
 {
   "name": "Maldives Open Source Society",
-  "url": "https://fmcpost.wordpress.com/",
+  "url": "https://fmcpost.wordpress.com",
   "location": {
     "city": "Male",
     "country": "MV",
@@ -10,8 +10,16 @@
   "contact": {
     "facebook": "https://www.facebook.com/pages/Maldives-Open-Source-Society-MOSS/134469546607627"
   },
+  "feeds": [
+    {
+      "name": "Wordpress",
+      "category": "blog",
+      "type": "rss",
+      "url": "https://fmcpost.wordpress.com/feed/"
+    }
+  ],
   "state": {
-    "lastchange": "2014-12-19T03:52:20.899Z"
+    "lastchange": "2014-12-19T11:44:25.617Z"
   },
   "api": "1.0.0"
 }
